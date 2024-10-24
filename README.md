@@ -4,17 +4,23 @@ This project is aimed at detecting phishing emails using machine learning algori
 
 ### Table of Contents
 Introduction
+
 Project Workflow
+
 Dataset
+
 Preprocessing
+
 Feature Engineering
+
 Modeling
+
 Evaluation Metrics
+
 Results
+
 Future Improvements
-Installation
-Usage
-License
+
 
 ### Introduction
 Phishing emails attempt to trick individuals into sharing sensitive information by pretending to be legitimate entities. This project leverages machine learning to automatically detect such malicious emails by analyzing their textual content. The end goal is to reduce human intervention by classifying emails as phishing or legitimate in real-time with high accuracy.
